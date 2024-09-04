@@ -20,3 +20,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 9
+          EXCLUDE: "GLSL,HLSL"
