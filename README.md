@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a>
+  <img align="center" src="https://github-readme-stats-one-navy-37.vercel.app/api?username=Artemol&count_private=true&include_all_commits=true&theme=dracula&hide_rank=true&show_icons=true&show=reviews" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats-one-navy-37.vercel.app/api/top-langs/?username=Artemol&hide=GLSL,HLSL"/>
+</a>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
