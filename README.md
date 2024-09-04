@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats-one-navy-37.vercel.app/api?username=Artemol&count_private=true&include_all_commits=true&theme=dracula&show_icons=true&show=reviews&rank_icon=github" />
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats-one-navy-37.vercel.app/api/top-langs/?username=Artemol&hide=GLSL,HLSL&layout=donut"/>
+  <img align="center" src="https://github-readme-stats-one-navy-37.vercel.app/api/top-langs/?username=Artemol&hide=GLSL,HLSL&layout=donut&theme=dracula"/>
 </a>
 
 <!--START_SECTION:waka-->
