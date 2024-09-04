@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <a>
-  <img align="center" src="https://github-readme-stats-one-navy-37.vercel.app/api?username=Artemol&count_private=true&include_all_commits=true&theme=dracula&hide_rank=true&show_icons=true&show=reviews" />
+  <img align="center" src="https://github-readme-stats-one-navy-37.vercel.app/api?username=Artemol&count_private=true&include_all_commits=true&theme=dracula&show_icons=true&show=reviews&rank_icon=github" />
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats-one-navy-37.vercel.app/api/top-langs/?username=Artemol&hide=GLSL,HLSL"/>
+  <img align="center" src="https://github-readme-stats-one-navy-37.vercel.app/api/top-langs/?username=Artemol&hide=GLSL,HLSL&layout=donut"/>
 </a>
 
 <!--START_SECTION:waka-->
