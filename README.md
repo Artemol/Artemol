@@ -23,4 +23,17 @@ Here are some ideas to get you started:
 </a>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 11 May 2024 - To: 04 September 2024
+
+Total Time: 135 hrs 19 mins
+
+C#            27 hrs 45 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.71 %
+TypeScript    26 hrs 36 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.98 %
+typst         23 hrs 22 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 %
+Other         21 hrs 21 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
+Python        12 hrs 3 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+```
+
 <!--END_SECTION:waka-->
