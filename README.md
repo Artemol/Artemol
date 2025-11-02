@@ -58,15 +58,15 @@ Here are some ideas to get you started:
 **I Mostly Code in TypeScript** 
 
 ```text
-C#                       12 repos            ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-ShaderLab                3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-HCL                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+TypeScript               18 repos            ████████░░░░░░░░░░░░░░░░░   32.73 % 
+C#                       12 repos            █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+ShaderLab                3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 
 
 
 
- Last Updated on 01/11/2025 18:46:21 UTC
+ Last Updated on 02/11/2025 18:46:07 UTC
 <!--END_SECTION:waka-->
