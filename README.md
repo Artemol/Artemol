@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 ## 💬WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-751%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-753%20hrs%2014%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -108,5 +108,5 @@ Nix                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 18:54:11 UTC
+ Last Updated on 05/01/2026 18:59:14 UTC
 <!--END_SECTION:waka-->
