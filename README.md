@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ## 💬WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-916%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-916%20hrs%2025%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -73,13 +73,16 @@ Sunday                   682 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+SSH Config               8 mins              ██████████████░░░░░░░░░░░   54.47 % 
+Bash                     3 mins              ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+Other                    3 mins              █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
+Public Key               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  15 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      15 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -95,5 +98,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/04/2026 19:13:25 UTC
+ Last Updated on 06/04/2026 19:38:22 UTC
 <!--END_SECTION:waka-->
