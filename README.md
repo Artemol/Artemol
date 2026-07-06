@@ -44,20 +44,62 @@ Here are some ideas to get you started:
 
 ## 💬WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-968%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-969%20hrs-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                354 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+🌆 Daytime                1231 commits        ████████░░░░░░░░░░░░░░░░░   33.50 % 
+🌃 Evening                647 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+🌙 Night                  1443 commits        ██████████░░░░░░░░░░░░░░░   39.27 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   562 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Tuesday                  587 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Wednesday                483 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Thursday                 482 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Friday                   510 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Saturday                 365 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Sunday                   686 commits         █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+Typst                    36 mins             ██████████████████░░░░░░░   71.75 % 
+Other                    10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+C                        3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+
+🔥 Editors: 
+VS Code                  38 mins             ███████████████████░░░░░░   76.77 % 
+Codex CLI                8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+Zed                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+
+💻 Operating System: 
+Mac                      40 mins             ████████████████████░░░░░   80.28 % 
+Windows                  9 mins              █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-ShaderLab                6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Svelte                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+ShaderLab                6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Svelte                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
 
 
 
 
- Last Updated on 05/07/2026 18:54:32 UTC
+ Last Updated on 06/07/2026 19:11:17 UTC
 <!--END_SECTION:waka-->
