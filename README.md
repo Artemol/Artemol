@@ -46,60 +46,18 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-969%20hrs%2024%20mins-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                354 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-🌆 Daytime                1238 commits        ████████░░░░░░░░░░░░░░░░░   33.60 % 
-🌃 Evening                649 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-🌙 Night                  1443 commits        ██████████░░░░░░░░░░░░░░░   39.17 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   562 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Tuesday                  596 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Wednesday                483 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Thursday                 482 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-Friday                   510 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-Saturday                 365 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Sunday                   686 commits         █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Typst                    23 mins             ██████████████████░░░░░░░   71.27 % 
-C                        3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-shell script             3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-
-🔥 Editors: 
-VS Code                  26 mins             ████████████████████░░░░░   78.95 % 
-Zed                      6 mins              █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-
-💻 Operating System: 
-Windows                  23 mins             ██████████████████░░░░░░░   71.27 % 
-Mac                      9 mins              ███████░░░░░░░░░░░░░░░░░░   28.73 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
-ShaderLab                6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Svelte                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+ShaderLab                6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 ```
 
 
 
 
- Last Updated on 10/07/2026 19:05:16 UTC
+ Last Updated on 11/07/2026 18:52:09 UTC
 <!--END_SECTION:waka-->
