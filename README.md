@@ -46,6 +46,50 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-997%20hrs%2046%20mins-blue?style=flat)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                354 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+🌆 Daytime                1239 commits        ████████░░░░░░░░░░░░░░░░░   33.54 % 
+🌃 Evening                649 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+🌙 Night                  1452 commits        ██████████░░░░░░░░░░░░░░░   39.31 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   564 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Tuesday                  596 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Wednesday                483 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Thursday                 483 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Friday                   511 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Saturday                 365 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Sunday                   692 commits         █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+YAML                     5 hrs 36 mins       ███████████░░░░░░░░░░░░░░   43.50 % 
+Markdown                 3 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
+Python                   2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Typst                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+
+🔥 Editors: 
+VS Code                  7 hrs 8 mins        ██████████████░░░░░░░░░░░   55.45 % 
+Codex CLI                5 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   41.38 % 
+Zed                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+
+💻 Operating System: 
+Linux                    5 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   40.79 % 
+Windows                  4 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   38.03 % 
+Mac                      2 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -59,5 +103,5 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 19:03:51 UTC
+ Last Updated on 25/07/2026 18:52:54 UTC
 <!--END_SECTION:waka-->
