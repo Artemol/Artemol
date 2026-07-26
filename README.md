@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ## 💬WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-997%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-998%20hrs%2030%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -73,21 +73,21 @@ Sunday                   692 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-YAML                     5 hrs 36 mins       ███████████░░░░░░░░░░░░░░   43.50 % 
-Markdown                 3 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
-Python                   2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
-Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-Typst                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Python                   2 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   38.07 % 
+Typst                    1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+YAML                     1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
+Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+C                        21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 8 mins        ██████████████░░░░░░░░░░░   55.45 % 
-Codex CLI                5 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   41.38 % 
-Zed                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+VS Code                  2 hrs 57 mins       █████████████░░░░░░░░░░░░   50.45 % 
+Codex CLI                2 hrs 29 mins       ███████████░░░░░░░░░░░░░░   42.59 % 
+Zed                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
 
 💻 Operating System: 
-Linux                    5 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   40.79 % 
-Windows                  4 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   38.03 % 
-Mac                      2 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+Mac                      3 hrs 28 mins       ███████████████░░░░░░░░░░   59.26 % 
+Linux                    2 hrs               █████████░░░░░░░░░░░░░░░░   34.12 % 
+Windows                  23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -103,5 +103,5 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 18:52:54 UTC
+ Last Updated on 26/07/2026 18:53:26 UTC
 <!--END_SECTION:waka-->
