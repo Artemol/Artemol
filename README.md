@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 
 ## 💬WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-967%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-972%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-62%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-66%20hrs%2027%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -75,43 +75,43 @@ Sunday                   692 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Typst                    5 hrs 9 mins        █████████████████░░░░░░░░   68.57 % 
-Markdown                 43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-Python                   31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-Git Config               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Typst                    8 hrs 9 mins        ███████████████████░░░░░░   75.07 % 
+Other                    1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+YAML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Python                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 38 mins       ███████████████░░░░░░░░░░   61.75 % 
-Codex CLI                2 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   38.25 % 
+VS Code                  6 hrs 51 mins       ████████████████░░░░░░░░░   63.01 % 
+Codex CLI                4 hrs 1 min         █████████░░░░░░░░░░░░░░░░   36.99 % 
 
 💻 Operating System: 
-Windows                  3 hrs 37 mins       ████████████░░░░░░░░░░░░░   48.10 % 
-Mac                      3 hrs 36 mins       ████████████░░░░░░░░░░░░░   48.01 % 
-Linux                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Windows                  5 hrs 17 mins       ████████████░░░░░░░░░░░░░   48.72 % 
+Mac                      4 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   40.58 % 
+Linux                    1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 46 mins (50.23%)
+⏱ AI Coding Time: 6 hrs 15 mins (57.57%)
 
-✍️ 3,312 lines written by AI, 454 lines written by hand (87.94% AI-written)
+✍️ 2,959 lines written by AI, 487 lines written by hand (85.87% AI-written)
 
-🔤 22,011,149 Input Tokens, 215,311 Output Tokens
+🔤 63,259,478 Input Tokens, 501,869 Output Tokens
 
-💵 $115.18 Estimated AI Cost This Week
+💵 $321.68 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 40 AI Prompts
+🧠 17 AI Sessions, 104 AI Prompts
 
-GPT                      3,073 lines         ███████████████████████░░   92.64 % 
-Fable                    244 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+GPT                      2,995 lines         ███████████████████████░░   92.47 % 
+Fable                    244 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.94% of written lines came from AI
-📚 Verbose Prompter — average 1,692 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 20.23% of changed lines were hand-edited
+🤖 AI-Driven — 85.87% of written lines came from AI
+📚 Verbose Prompter — average 5,103 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 27.3% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -127,5 +127,5 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026 18:52:19 UTC
+ Last Updated on 04/08/2026 19:07:35 UTC
 <!--END_SECTION:waka-->
