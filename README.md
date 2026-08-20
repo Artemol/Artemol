@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 
 ## 💬WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-990%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-992%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-85%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-87%20hrs-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -75,39 +75,19 @@ Sunday                   692 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 4 hrs 57 mins       ███████████████░░░░░░░░░░   58.88 % 
-Python                   1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
-YAML                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-JSON                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Bash                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex CLI                8 hrs 26 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    8 hrs 26 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 26 mins (100.0%)
-
-✍️ 3,846 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 5,958,925 Input Tokens, 373,760 Output Tokens
-
-💵 $116.58 Estimated AI Cost This Week
-
-🧠 10 AI Sessions, 95 AI Prompts
-
-GPT                      3,864 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 12,450 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -123,5 +103,5 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 18:49:46 UTC
+ Last Updated on 20/08/2026 18:49:50 UTC
 <!--END_SECTION:waka-->
