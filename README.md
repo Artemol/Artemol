@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C023%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-120%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-120%20hrs%2031%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -75,36 +75,39 @@ Sunday                   692 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 2 hrs 45 mins       █████████████░░░░░░░░░░░░   52.25 % 
-Python                   2 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   40.66 % 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Markdown                 1 hr 56 mins        █████████████░░░░░░░░░░░░   52.01 % 
+Python                   1 hr 30 mins        ██████████░░░░░░░░░░░░░░░   40.08 % 
+Bash                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-Codex CLI                5 hrs 17 mins       █████████████████████████   100.00 % 
+Codex CLI                3 hrs 44 mins       █████████████████████████   99.81 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-Linux                    5 hrs 17 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 44 mins       █████████████████████████   99.81 % 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 17 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 44 mins (99.81%)
 
-✍️ 7,225 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,930 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,938,462 Input Tokens, 494,757 Output Tokens
+🔤 3,815,809 Input Tokens, 352,020 Output Tokens
 
-💵 $51.96 Estimated AI Cost This Week
+💵 $38.69 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 94 AI Prompts
+🧠 32 AI Sessions, 59 AI Prompts
 
-GPT                      7,227 lines         █████████████████████████   100.00 % 
+GPT                      4,932 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 15,804 characters per prompt
+📚 Verbose Prompter — average 16,835 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -122,5 +125,5 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026 18:39:49 UTC
+ Last Updated on 13/09/2026 18:40:53 UTC
 <!--END_SECTION:waka-->
