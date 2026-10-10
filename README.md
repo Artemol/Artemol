@@ -75,36 +75,36 @@ Sunday                   670 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    2 hrs 32 mins       █████████████████░░░░░░░░   68.13 % 
-Markdown                 1 hr 11 mins        ████████░░░░░░░░░░░░░░░░░   31.87 % 
+Other                    9 hrs 31 mins       ██████████████████████░░░   89.51 % 
+Markdown                 1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
 
 🔥 Editors: 
-Opencode Cli             3 hrs 31 mins       ████████████████████████░   94.55 % 
-Codex Vscode             8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-Codex CLI                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Opencode Cli             10 hrs 14 mins      ████████████████████████░   96.27 % 
+Codex CLI                15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Codex Vscode             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 💻 Operating System: 
-Linux                    3 hrs 43 mins       █████████████████████████   100.00 % 
+Linux                    10 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 43 mins (100.0%)
+⏱ AI Coding Time: 10 hrs 38 mins (100.0%)
 
-✍️ 224 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 101 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,842,693 Input Tokens, 1,079,683 Output Tokens
+🔤 13,986,931 Input Tokens, 2,501,405 Output Tokens
 
-💵 $13.87 Estimated AI Cost This Week
+💵 $34.50 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 39 AI Prompts
+🧠 45 AI Sessions, 108 AI Prompts
 
-GPT                      224 lines           █████████████████████████   100.00 % 
+GPT                      101 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,547 characters per prompt
+📚 Verbose Prompter — average 1,765 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -122,5 +122,5 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026 18:47:48 UTC
+ Last Updated on 10/10/2026 18:46:41 UTC
 <!--END_SECTION:waka-->
