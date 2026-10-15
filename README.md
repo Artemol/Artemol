@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ## 💬WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C033%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C033%20hrs%2034%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-132%20hrs%2026%20mins-blue?style=flat)
 
@@ -75,41 +75,19 @@ Sunday                   679 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    2 hrs 32 mins       ████████████████░░░░░░░░░   62.18 % 
-Markdown                 1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-Typst                    25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Typst                    39 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Opencode Cli             3 hrs 28 mins       █████████████████████░░░░   85.40 % 
-VS Code                  25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-Codex Vscode             8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-Codex CLI                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+VS Code                  39 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 39 mins       ██████████████████████░░░   89.56 % 
-Windows                  25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Windows                  39 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 39 mins (89.56%)
-
-✍️ 101 lines written by AI, 69 lines written by hand (59.41% AI-written)
-
-🔤 4,538,916 Input Tokens, 1,027,289 Output Tokens
-
-💵 $13.38 Estimated AI Cost This Week
-
-🧠 16 AI Sessions, 34 AI Prompts
-
-GPT                      101 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 59.41% of written lines came from AI
-📚 Verbose Prompter — average 3,565 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 41.28% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -125,5 +103,5 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 18:48:14 UTC
+ Last Updated on 15/10/2026 18:47:08 UTC
 <!--END_SECTION:waka-->
