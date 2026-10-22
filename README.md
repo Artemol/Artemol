@@ -44,28 +44,28 @@ Here are some ideas to get you started:
 
 ## 💬WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C034%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C034%20hrs%208%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-132%20hrs%2040%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                359 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-🌆 Daytime                1418 commits        █████████░░░░░░░░░░░░░░░░   35.97 % 
-🌃 Evening                760 commits         █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
-🌙 Night                  1405 commits        █████████░░░░░░░░░░░░░░░░   35.64 % 
+🌞 Morning                359 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+🌆 Daytime                1418 commits        █████████░░░░░░░░░░░░░░░░   35.95 % 
+🌃 Evening                760 commits         █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+🌙 Night                  1407 commits        █████████░░░░░░░░░░░░░░░░   35.67 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   626 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-Tuesday                  946 commits         ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-Wednesday                447 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Thursday                 455 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Friday                   475 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Monday                   626 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+Tuesday                  946 commits         ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
+Wednesday                447 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Thursday                 457 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Friday                   475 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
 Saturday                 326 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-Sunday                   667 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+Sunday                   667 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
 ```
 
 
@@ -75,27 +75,27 @@ Sunday                   667 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-JSON                     22 mins             █████████████░░░░░░░░░░░░   53.08 % 
-Typst                    17 mins             ██████████░░░░░░░░░░░░░░░   40.62 % 
-Docker                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+JSON                     28 mins             █████████████████████░░░░   82.49 % 
+Typst                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Docker                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🔥 Editors: 
-VS Code                  39 mins             ███████████████████████░░   93.17 % 
-Codex Vscode             2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+VS Code                  32 mins             ███████████████████████░░   91.81 % 
+Codex Vscode             2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
 
 💻 Operating System: 
-Mac                      24 mins             ███████████████░░░░░░░░░░   59.38 % 
-Windows                  17 mins             ██████████░░░░░░░░░░░░░░░   40.62 % 
+Mac                      24 mins             ██████████████████░░░░░░░   71.14 % 
+Windows                  10 mins             ███████░░░░░░░░░░░░░░░░░░   28.86 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 mins (33.79%)
+⏱ AI Coding Time: 14 mins (40.48%)
 
-✍️ 0 lines written by AI, 36 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 3 lines written by hand (0.0% AI-written)
 
 🔤 35,407 Input Tokens, 1,400 Output Tokens
 
@@ -125,5 +125,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2026 18:47:22 UTC
+ Last Updated on 22/10/2026 18:47:08 UTC
 <!--END_SECTION:waka-->
