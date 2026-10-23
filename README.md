@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ## 💬WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C034%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C034%20hrs%2024%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-132%20hrs%2040%20mins-blue?style=flat)
 
@@ -75,27 +75,27 @@ Sunday                   667 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-JSON                     28 mins             █████████████████████░░░░   82.49 % 
-Typst                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-Docker                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+JSON                     31 mins             ████████████████░░░░░░░░░   65.66 % 
+Typst                    13 mins             ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+Docker                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 Editors: 
-VS Code                  32 mins             ███████████████████████░░   91.81 % 
-Codex Vscode             2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+VS Code                  44 mins             ███████████████████████░░   93.97 % 
+Codex Vscode             2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
 
 💻 Operating System: 
-Mac                      24 mins             ██████████████████░░░░░░░   71.14 % 
-Windows                  10 mins             ███████░░░░░░░░░░░░░░░░░░   28.86 % 
+Mac                      24 mins             █████████████░░░░░░░░░░░░   52.34 % 
+Windows                  22 mins             ████████████░░░░░░░░░░░░░   47.66 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 mins (40.48%)
+⏱ AI Coding Time: 14 mins (29.79%)
 
-✍️ 0 lines written by AI, 3 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 29 lines written by hand (0.0% AI-written)
 
 🔤 35,407 Input Tokens, 1,400 Output Tokens
 
@@ -125,5 +125,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 18:47:08 UTC
+ Last Updated on 23/10/2026 18:47:36 UTC
 <!--END_SECTION:waka-->
