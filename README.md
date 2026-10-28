@@ -75,44 +75,46 @@ Sunday                   700 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-JSON                     49 mins             ███████░░░░░░░░░░░░░░░░░░   29.87 % 
-Go                       32 mins             █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
-Markdown                 23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-C#                       22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Typst                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+JSON                     49 mins             ███████░░░░░░░░░░░░░░░░░░   29.48 % 
+Go                       32 mins             █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+Markdown                 23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+C#                       22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Typst                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 8 mins        ████████████████████░░░░░   78.36 % 
-Opencode Cli             17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Zed                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-OpenCode                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+VS Code                  2 hrs 10 mins       ████████████████████░░░░░   78.19 % 
+Opencode Cli             17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Zed                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+OpenCode                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Antigravity CLI          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 💻 Operating System: 
-Mac                      1 hr 44 mins        ████████████████░░░░░░░░░   63.94 % 
-Windows                  59 mins             █████████░░░░░░░░░░░░░░░░   36.06 % 
+Mac                      1 hr 47 mins        ████████████████░░░░░░░░░   64.41 % 
+Windows                  59 mins             █████████░░░░░░░░░░░░░░░░   35.59 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 49 mins (29.97%)
+⏱ AI Coding Time: 49 mins (30.03%)
 
 ✍️ 191 lines written by AI, 37 lines written by hand (83.77% AI-written)
 
-🔤 174,738 Input Tokens, 41,541 Output Tokens
+🔤 204,346 Input Tokens, 42,581 Output Tokens
 
-💵 $11.03 Estimated AI Cost This Week
+💵 $11.10 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 15 AI Prompts
+🧠 4 AI Sessions, 16 AI Prompts
 
 Codex-Vscode             191 lines           █████████████████████████   100.00 % 
 Zed                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 83.77% of written lines came from AI
-📝 Concise Prompter — average 43 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 42 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 31.54% of changed lines were hand-edited
 ```
 
@@ -129,5 +131,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 18:39:01 UTC
+ Last Updated on 28/10/2026 18:40:18 UTC
 <!--END_SECTION:waka-->
