@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 
 ## 💬WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C065%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C066%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-151%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-152%20hrs%2023%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -75,46 +75,45 @@ Sunday                   697 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   17 hrs 55 mins      ██████████████░░░░░░░░░░░   55.55 % 
-Markdown                 11 hrs 8 mins       █████████░░░░░░░░░░░░░░░░   34.54 % 
-Bash                     1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-HTML                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-Text                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Python                   14 hrs 20 mins      ██████████████░░░░░░░░░░░   54.07 % 
+Markdown                 6 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   26.12 % 
+Bash                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Other                    1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+Typst                    1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
 
 🔥 Editors: 
-Claude Code              18 hrs 29 mins      ██████████████░░░░░░░░░░░   57.30 % 
-VS Code                  11 hrs 7 mins       █████████░░░░░░░░░░░░░░░░   34.47 % 
-Codex Vscode             1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-Codex Exec               51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Claude Code              13 hrs 48 mins      █████████████░░░░░░░░░░░░   52.05 % 
+VS Code                  12 hrs 8 mins       ███████████░░░░░░░░░░░░░░   45.74 % 
+Codex Exec               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Linux                    18 hrs 43 mins      ███████████████░░░░░░░░░░   58.02 % 
-Windows                  12 hrs 3 mins       █████████░░░░░░░░░░░░░░░░   37.35 % 
-Mac                      1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+Linux                    12 hrs 37 mins      ████████████░░░░░░░░░░░░░   47.60 % 
+Windows                  10 hrs 57 mins      ██████████░░░░░░░░░░░░░░░   41.32 % 
+Mac                      2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 13 mins (65.76%)
+⏱ AI Coding Time: 14 hrs 27 mins (54.49%)
 
-✍️ 13,637 lines written by AI, 3,652 lines written by hand (78.88% AI-written)
+✍️ 8,308 lines written by AI, 3,739 lines written by hand (68.96% AI-written)
 
-🔤 15,804,120 Input Tokens, 2,700,558 Output Tokens
+🔤 15,177,717 Input Tokens, 2,087,203 Output Tokens
 
-💵 $212.75 Estimated AI Cost This Week
+💵 $170.07 Estimated AI Cost This Week
 
-🧠 45 AI Sessions, 190 AI Prompts
+🧠 34 AI Sessions, 151 AI Prompts
 
-Opus                     12,994 lines        ███████████████████████░░   90.25 % 
-GPT                      1,404 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Opus                     8,899 lines         █████████████████████████   98.14 % 
+GPT                      169 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 78.88% of written lines came from AI
-📚 Verbose Prompter — average 4,982 characters per prompt
+🤖 AI-Driven — 68.96% of written lines came from AI
+📚 Verbose Prompter — average 5,670 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 23.55% of changed lines were hand-edited
+🚀 High AI Trust — 33.28% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -130,5 +129,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/11/2026 18:37:53 UTC
+ Last Updated on 07/11/2026 18:37:27 UTC
 <!--END_SECTION:waka-->
