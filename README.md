@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 
 ## 💬WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C084%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C085%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-169%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-170%20hrs%2039%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -75,45 +75,43 @@ Sunday                   924 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 6 hrs 56 mins       ███████████████░░░░░░░░░░   59.65 % 
-Python                   3 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   27.12 % 
-Text                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-HTML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Markdown                 4 hrs 46 mins       █████████████░░░░░░░░░░░░   52.85 % 
+Python                   2 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   30.71 % 
+Text                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+HTML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 48 mins      ███████████████████████░░   92.98 % 
-Codex Exec               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-Codex Vscode             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-Antigravity CLI          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Claude Code              8 hrs 27 mins       ███████████████████████░░   93.74 % 
+Codex Exec               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Codex Vscode             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Linux                    11 hrs 37 mins      █████████████████████████   100.00 % 
+Linux                    9 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 37 mins (100.0%)
+⏱ AI Coding Time: 9 hrs 1 min (100.0%)
 
-✍️ 13,129 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 12,489 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 10,498,317 Input Tokens, 1,391,492 Output Tokens
+🔤 8,846,384 Input Tokens, 1,238,395 Output Tokens
 
-💵 $143.35 Estimated AI Cost This Week
+💵 $112.93 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 129 AI Prompts
+🧠 18 AI Sessions, 105 AI Prompts
 
-Opus                     12,859 lines        ████████████████████████░   97.66 % 
-Fable                    182 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-GPT                      126 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     12,381 lines        █████████████████████████   98.99 % 
+GPT                      126 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,214 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📚 Verbose Prompter — average 2,934 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -130,5 +128,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/11/2026 18:38:56 UTC
+ Last Updated on 19/11/2026 18:38:20 UTC
 <!--END_SECTION:waka-->
